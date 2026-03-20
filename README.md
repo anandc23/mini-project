@@ -4,6 +4,9 @@ Golden Saffron Cafe Menu is a Python-based GUI application that allows users to 
 
 ---
 
+<img width="1658" height="861" alt="Screenshot 2026-03-15 184426" src="https://github.com/user-attachments/assets/24940035-5a68-41c0-b935-a06dce7391cc" />
+
+
 ## Features
 - **Interactive GUI:** Built with Tkinter for a seamless user experience.
 - **Dynamic Menu:** Categories include Pizza, Coffee, Burgers, and Desserts with dynamic item updates.
